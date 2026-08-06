@@ -1,0 +1,10 @@
+In welche Anwendungsklasse wird die Software eingeordnet?;;Anwendungsklasse 3: Für die Software ist es wesentlich Fehler zu vermeiden und Risiken zu reduzieren. Dies gilt insbesondere für kritische Software und solche mit Produkteigenschaften.
+Typ;"Set ""Anabel Anheuser""";Person
+Typ;"Set ""Berta Behne""";Person
+Typ;"Set ""Entität A""";Entität
+ORCID-Suche;"Set ""Anabel Anheuser""";"Renato Torres Rodrigues <a href=""https://orcid.org/0009-0009-5455-6892"" target=""_blank"" ><img src=""/static/accounts/img/orcid_16x16.png?v=2.5.1"" alt=""orcid logo"" /></a>"
+Familienname(n);"Set ""Anabel Anheuser""";Torres Rodrigues
+Familienname(n);"Set ""Berta Behne""";Behne
+Rufname(n);"Set ""Anabel Anheuser""";Renato
+Name;"Set ""Entität A""";Name der Entität A
+ORCID;"Set ""Anabel Anheuser""";https://orcid.org/0009-0009-5455-6892
