@@ -1,0 +1,52 @@
+[
+  {
+    "question": "In welche Anwendungsklasse wird die Software eingeordnet?",
+    "set": "",
+    "values": "Anwendungsklasse 3: F\u00fcr die Software ist es wesentlich Fehler zu vermeiden und Risiken zu reduzieren. Dies gilt insbesondere f\u00fcr kritische Software und solche mit Produkteigenschaften."
+  },
+  {
+    "question": "Typ",
+    "set": "Set \"Anabel Anheuser\"",
+    "values": "Person"
+  },
+  {
+    "question": "Typ",
+    "set": "Set \"Berta Behne\"",
+    "values": "Person"
+  },
+  {
+    "question": "Typ",
+    "set": "Set \"Entit\u00e4t A\"",
+    "values": "Entit\u00e4t"
+  },
+  {
+    "question": "ORCID-Suche",
+    "set": "Set \"Anabel Anheuser\"",
+    "values": "Renato Torres Rodrigues <a href=\"https://orcid.org/0009-0009-5455-6892\" target=\"_blank\" ><img src=\"/static/accounts/img/orcid_16x16.png?v=2.5.1\" alt=\"orcid logo\" /></a>"
+  },
+  {
+    "question": "Familienname(n)",
+    "set": "Set \"Anabel Anheuser\"",
+    "values": "Torres Rodrigues"
+  },
+  {
+    "question": "Familienname(n)",
+    "set": "Set \"Berta Behne\"",
+    "values": "Behne"
+  },
+  {
+    "question": "Rufname(n)",
+    "set": "Set \"Anabel Anheuser\"",
+    "values": "Renato"
+  },
+  {
+    "question": "Name",
+    "set": "Set \"Entit\u00e4t A\"",
+    "values": "Name der Entit\u00e4t A"
+  },
+  {
+    "question": "ORCID",
+    "set": "Set \"Anabel Anheuser\"",
+    "values": "https://orcid.org/0009-0009-5455-6892"
+  }
+]
