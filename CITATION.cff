@@ -1,0 +1,12 @@
+
+    cff-version: 1.2.0
+    message: "If you use this software, please cite it as below."
+    title: 260806_personen
+    type: software
+    authors:        
+        - family-names: "Torres Rodrigues"
+          given-names: Renato
+          orcid: https://orcid.org/0009-0009-5455-6892        
+        - family-names: Behne
+          given-names:         
+        - name: "Name der Entität A"
