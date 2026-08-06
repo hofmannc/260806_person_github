@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:dc="http://purl.org/dc/elements/1.1/" created="2026-08-06T15:11:27.467845+02:00" required="2.1.0" version="2.5.1">
+	<title>260806_personen</title>
+	<description/>
+	<catalog dc:uri="https://rdmorganiser.github.io/terms/questions/smp"/>
+	<tasks>
+		<task dc:uri="https://rdmo.mpdl.mpg.de/terms/tasks/determine_smp_versioning_tool"/>
+	</tasks>
+	<views>
+		<view dc:uri="https://rdmo.mpdl.mpg.de/terms/views/smp-citation"/>
+		<view dc:uri="https://rdmo.mpdl.mpg.de/terms/views/smp-codemeta"/>
+		<view dc:uri="https://rdmo.mpdl.mpg.de/terms/views/smp-readme"/>
+		<view dc:uri="https://rdmo.mpdl.mpg.de/terms/views/smp-report"/>
+		<view dc:uri="https://rdmo.mpdl.mpg.de/views/FAIR4RSview"/>
+	</views>
+	<values>
+		<value>
+			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/partner/family-name"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text>Torres Rodrigues</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2026-08-06T15:09:36.003476+02:00</created>
+			<updated>2026-08-06T15:09:36.003480+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/partner/family-name"/>
+			<set_prefix/>
+			<set_index>1</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text>Behne</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2026-08-06T15:09:51.107217+02:00</created>
+			<updated>2026-08-06T15:09:51.107221+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/partner/given-name"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text>Renato</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2026-08-06T15:09:35.998751+02:00</created>
+			<updated>2026-08-06T15:09:35.998755+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/partner/orcid"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text>https://orcid.org/0009-0009-5455-6892</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2026-08-06T15:09:35.994271+02:00</created>
+			<updated>2026-08-06T15:09:35.994274+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/partner/orcid-autocomplete"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text>Renato Torres Rodrigues &lt;a href="https://orcid.org/0009-0009-5455-6892" target="_blank" &gt;&lt;img src="/static/accounts/img/orcid_16x16.png?v=2.5.1" alt="orcid logo" /&gt;&lt;/a&gt;</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id>0009-0009-5455-6892</external_id>
+			<created>2026-08-06T15:09:35.568083+02:00</created>
+			<updated>2026-08-06T15:09:35.568087+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/partner/type"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text/>
+			<option dc:uri="https://rdmo.mpdl.mpg.de/terms/options/partner-types/person"/>
+			<file/>
+			<value_type>option</value_type>
+			<unit/>
+			<external_id/>
+			<created>2026-08-06T15:09:27.186587+02:00</created>
+			<updated>2026-08-06T15:09:35.990048+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/partner/type"/>
+			<set_prefix/>
+			<set_index>1</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text/>
+			<option dc:uri="https://rdmo.mpdl.mpg.de/terms/options/partner-types/person"/>
+			<file/>
+			<value_type>option</value_type>
+			<unit/>
+			<external_id/>
+			<created>2026-08-06T15:09:48.033718+02:00</created>
+			<updated>2026-08-06T15:09:48.033722+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/partner/type"/>
+			<set_prefix/>
+			<set_index>2</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text/>
+			<option dc:uri="https://rdmo.mpdl.mpg.de/terms/options/partner-types/entity"/>
+			<file/>
+			<value_type>option</value_type>
+			<unit/>
+			<external_id/>
+			<created>2026-08-06T15:10:03.994098+02:00</created>
+			<updated>2026-08-06T15:10:03.994101+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/project/partner/id"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text>Anabel Anheuser</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2026-08-06T15:09:25.267457+02:00</created>
+			<updated>2026-08-06T15:09:25.267461+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/project/partner/id"/>
+			<set_prefix/>
+			<set_index>1</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text>Berta Behne</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2026-08-06T15:09:45.889120+02:00</created>
+			<updated>2026-08-06T15:09:45.889124+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/project/partner/id"/>
+			<set_prefix/>
+			<set_index>2</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text>Entität A</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2026-08-06T15:10:01.790951+02:00</created>
+			<updated>2026-08-06T15:10:01.790956+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/project/partner/name"/>
+			<set_prefix/>
+			<set_index>2</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text>Name der Entität A</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2026-08-06T15:10:08.923900+02:00</created>
+			<updated>2026-08-06T15:10:16.249018+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/application-class"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text/>
+			<option dc:uri="https://rdmorganiser.github.io/terms/options/application-class/3"/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2026-08-06T15:09:11.906090+02:00</created>
+			<updated>2026-08-06T15:09:11.906093+02:00</updated>
+		</value>
+	</values>
+	<created>2026-08-06T15:09:03.986619+02:00</created>
+	<updated>2026-08-06T15:10:11.648748+02:00</updated>
+</project>
