@@ -1,0 +1,23 @@
+
+    {
+        "@context": "https://w3id.org/codemeta/3.0",
+        "name": "260806_personen",
+        "@type": "SoftwareSourceCode",
+        "contributor": [          
+            {
+                "@id": "https://orcid.org/0009-0009-5455-6892",
+                "@type": "Person",
+                "familyName": "Torres Rodrigues",
+                "givenName": "Renato"
+            },          
+            {
+                "@type": "Person",
+                "familyName": "Behne",
+                "givenName": ""
+            },          
+            {
+                "@type": "Organization",
+                "name": "Name der Entität A"
+            }
+        ]
+    }
